@@ -3,3 +3,6 @@ ollama
 plotly
 pandas
 requests
+sentence-transformers
+scikit-learn
+datasets
